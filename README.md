@@ -2,8 +2,10 @@
 Website for blog
 
 ## Technologies and tools
-<a href = "https://www.python.org/">__Python 3.12__</a> - Programming language.\n
-<a href = "https://flask.palletsprojects.com/en/3.0.x/">__Flask 3.0.3__</a> - Framework.\n
+<a href = "https://www.python.org/">__Python 3.12__</a> - Programming language.
+
+<a href = "https://flask.palletsprojects.com/en/3.0.x/">__Flask 3.0.3__</a> - Framework.
+
 <a href = "https://flask-sqlalchemy.readthedocs.io/en/3.1.x/">__Flask-SQLAlchemy 3.1.1__</a> - Extension for Flask.
 
 Install
